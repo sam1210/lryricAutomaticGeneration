@@ -14,7 +14,6 @@ html = '''Content-Type: text/html
 <h1>「松本隆」歌詞自動生成</h1>
 <h2>松本隆がこれまで書いた詞より自動で生成されています。</h2>
 <p>%s</p>
-<p><a href="http://soda-lab.com/sam/day30/kashi2.py">再生成</a></p>
 <p class="copy"><small> &#169; <a target="_blank" href="https://twitter.com/sam__1210">Fumiya Fukumoto</a> @<a target="_blank" href="http://sodatower.com/">SODA TOWER</a></small></p>
 </body>
 </html>
